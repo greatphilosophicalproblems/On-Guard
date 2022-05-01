@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning this, and trust me, i need too
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me shaw@greatphilosophicalproblems.com
+- greatphilosophicalproblems.com
 
 <!---
 greatphilosophicalproblems/greatphilosophicalproblems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
