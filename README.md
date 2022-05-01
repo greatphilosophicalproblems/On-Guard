@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @greatphilosophicalproblems
+- 👋 Hi, I’m @greatphilosophicalproblems, and i write to you as Dr Shaw
 - 👀 I’m interested in Moral Injury
 - 🌱 I’m currently learning this, and trust me, i need too
 - 💞️ I’m looking to collaborate on a project
